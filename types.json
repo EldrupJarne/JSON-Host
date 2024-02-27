@@ -1,0 +1,51 @@
+[
+  {
+    "id": 0,
+    "typeName": "Mountainbike",
+    "description": "Een robuuste fiets geschikt voor off-road terrein.",
+    "tags": ["sport", "avontuur"],
+    "statusActive": true
+  },
+  {
+    "id": 1,
+    "typeName": "Helm",
+    "description": "Een beschermende helm voor fietsers.",
+    "tags": ["veiligheid", "bescherming"],
+    "statusActive": true
+  },
+  {
+    "id": 2,
+    "typeName": "Fietsoutfit",
+    "description": "Kledingset speciaal ontworpen voor fietsers.",
+    "tags": ["kleding", "comfort"],
+    "statusActive": true
+  },
+  {
+    "id": 3,
+    "typeName": "Fiets accessoires",
+    "description": "Diverse accessoires voor het optimaliseren van de fietservaring.",
+    "tags": ["accessoires", "handig"],
+    "statusActive": true
+  },
+  {
+    "id": 4,
+    "typeName": "Fiets schoenen",
+    "description": "Schoenen geschikt voor fietsen, met goede grip en comfort.",
+    "tags": ["schoenen", "comfort"],
+    "statusActive": true
+  },
+  {
+    "id": 5,
+    "typeName": "Fiets handschoenen",
+    "description": "Handschoenen ter bescherming en comfort tijdens het fietsen.",
+    "tags": ["handschoenen", "comfort"],
+    "statusActive": true
+  },
+  {
+    "id": 6,
+    "typeName": "Fiets computer",
+    "description": "Een apparaat voor het meten en analyseren van fietsprestaties.",
+    "tags": ["technologie", "meting"],
+    "statusActive": true
+  }
+]
