@@ -3,21 +3,23 @@
     "index": 1,
     "articleName": "Trail 29er",
     "price": 1499.99,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://raw.githubusercontent.com/EldrupJarne/JSON-Host/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_bike-1.webp",
     "type": {
       "id": 0,
       "typeName": "Mountainbike",
       "description": "Een robuuste fiets geschikt voor off-road terrein.",
-      "tags": ["sport", "avontuur"],
+      "tags": [
+        "sport",
+        "avontuur"
+      ],
       "statusActive": true
     },
     "brand": "Giant",
     "infoShort": "Een krachtige mountainbike, ontworpen voor trailrijden.",
     "info": "De Giant Trail 29er is een krachtige mountainbike ontworpen voor trailrijden. Hij beschikt over een lichtgewicht aluminium frame, 29-inch wielen voor superieure controle en een hoogwaardig veersysteem voor een soepele rit.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWIshlist": false,
+    "inStock": false,
     "specifications": [
       "Frame: lichtgewicht aluminium",
       "Wielmaat: 29 inch",
@@ -57,21 +59,23 @@
     "index": 2,
     "articleName": "Ride 27.5",
     "price": 1199.99,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_bike-2.webp",
     "type": {
       "id": 0,
       "typeName": "Mountainbike",
       "description": "Een robuuste fiets geschikt voor off-road terrein.",
-      "tags": ["sport", "avontuur"],
+      "tags": [
+        "sport",
+        "avontuur"
+      ],
       "statusActive": true
     },
     "brand": "Canion",
     "infoShort": "Een veelzijdige mountainbike ontworpen voor zowel trail als stadsritten.",
     "info": "De Canion Ride 27.5 is een veelzijdige mountainbike die zowel thuis is op stadsstraten als op bergpaden. Het beschikt over een stevig frame, 27,5-inch wielen voor een balans van controle en snelheid, en een betrouwbaar versnellingssysteem voor een breed scala aan terreinen.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWIshlist": false,
+    "inStock": true,
     "specifications": [
       "Frame: Stevig Staal",
       "Wielmaat: 27,5 inch",
@@ -111,21 +115,23 @@
     "index": 3,
     "articleName": "Jump 29",
     "price": 799.5,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_bike-3.webp",
     "type": {
       "id": 0,
       "typeName": "Mountainbike",
       "description": "Een robuuste fiets geschikt voor off-road terrein.",
-      "tags": ["sport", "avontuur"],
+      "tags": [
+        "sport",
+        "avontuur"
+      ],
       "statusActive": true
     },
     "brand": "Cube",
     "infoShort": "Een robuuste mountainbike ontworpen voor sprongen en technische trails.",
     "info": "De Cube Jump 29 is een robuuste mountainbike die is ontworpen voor sprongen en technische trails. Het beschikt over een sterk frame, 29-inch wielen voor superieure controle, en een geavanceerd veersysteem voor een soepele rit.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWIshlist": false,
+    "inStock": true,
     "specifications": [
       "Frame: Sterk Staal",
       "Wielmaat: 29 inch",
@@ -165,21 +171,23 @@
     "index": 4,
     "articleName": "Pinnacle",
     "price": 1200.0,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_bike-5.webp",
     "type": {
       "id": 0,
       "typeName": "Mountainbike",
       "description": "Een robuuste fiets geschikt voor off-road terrein.",
-      "tags": ["sport", "avontuur"],
+      "tags": [
+        "sport",
+        "avontuur"
+      ],
       "statusActive": true
     },
     "brand": "Trek",
     "infoShort": "Duurzame en efficiënte 26-inch hardtail mountainbike van Trek.",
     "info": "Deze Trek mountainbike heeft een 26-inch hardtail frame voor een soepele en efficiënte rit. De fiets is ontworpen voor off-road fietsen en komt in een prachtige kleur van starlight purple. Het is gebouwd met hoogwaardige componenten voor duurzaamheid en prestaties.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWishlist": false,
+    "inStock": true,
     "specifications": [
       "Frame: 26-inch hardtail",
       "Kleur: Starlight Purple",
@@ -219,21 +227,23 @@
     "index": 5,
     "articleName": "Drako-29",
     "price": 3500.0,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_bike-4.webp",
     "type": {
       "id": 0,
       "typeName": "Mountainbike",
       "description": "Een robuuste fiets geschikt voor off-road terrein.",
-      "tags": ["sport", "avontuur"],
+      "tags": [
+        "sport",
+        "avontuur"
+      ],
       "statusActive": true
     },
     "brand": "Mondraker",
     "infoShort": "High-performance full suspension mountainbike van Mondraker.",
     "info": "Deze Mondraker mountainbike heeft een volledig geveerd frame voor een soepele en efficiënte rit. De fiets is ontworpen voor off-road fietsen en komt in een opvallend goud- en zwartkleurenschema. Het is gebouwd met hoogwaardige componenten voor duurzaamheid en prestaties, waaronder een zwarte verende voorvork en achtervering, schijfremmen en noppenbanden.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWishlist": false,
+    "inStock": false,
     "specifications": [
       "Frame: Volledig geveerd",
       "Kleur: Goud en Zwart",
@@ -273,21 +283,23 @@
     "index": 6,
     "articleName": "E501",
     "price": 200.0,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_gps-3.webp",
     "type": {
       "id": 6,
       "typeName": "Fiets computer",
       "description": "Een apparaat voor het meten en analyseren van fietsprestaties.",
-      "tags": ["technologie", "meting"],
+      "tags": [
+        "technologie",
+        "meting"
+      ],
       "statusActive": true
     },
     "brand": "Garmin",
     "infoShort": "Een geavanceerde fietscomputer met GPS en hartslagmonitor.",
     "info": "De Garmin E501 is een geavanceerde fietscomputer die is ontworpen om uw ritten te verbeteren. Het beschikt over GPS-navigatie, een hartslagmonitor, en een breed scala aan fiets-specifieke functies om uw prestaties te volgen.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWIshlist": false,
+    "inStock": true,
     "specifications": [
       "GPS: Ingebouwde GPS-navigatie",
       "Hartslagmonitor: Ingebouwde hartslagmonitor",
@@ -327,21 +339,23 @@
     "index": 7,
     "articleName": "Galaxy Bike Pro",
     "price": 299.0,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_gps-2.webp",
     "type": {
       "id": 6,
       "typeName": "Fiets computer",
       "description": "Een apparaat voor het meten en analyseren van fietsprestaties.",
-      "tags": ["technologie", "meting"],
+      "tags": [
+        "technologie",
+        "meting"
+      ],
       "statusActive": true
     },
     "brand": "Samsung",
     "infoShort": "Een geavanceerde fietscomputer met ingebouwde smart functies.",
     "info": "De Samsung Galaxy Bike Pro is een geavanceerde fietscomputer die is ontworpen om uw ritten te verbeteren. Het beschikt over GPS-navigatie, een hartslagmonitor, en een breed scala aan fiets-specifieke functies om uw prestaties te volgen.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWIshlist": false,
+    "inStock": false,
     "specifications": [
       "GPS: Ingebouwde GPS-navigatie",
       "Hartslagmonitor: Ingebouwde hartslagmonitor",
@@ -381,21 +395,23 @@
     "index": 8,
     "articleName": "iCycle",
     "price": 1599.99,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_gps-1.webp",
     "type": {
       "id": 6,
       "typeName": "Fiets computer",
       "description": "Een apparaat voor het meten en analyseren van fietsprestaties.",
-      "tags": ["technologie", "meting"],
+      "tags": [
+        "technologie",
+        "meting"
+      ],
       "statusActive": true
     },
     "brand": "Apple",
     "infoShort": "Een premium fietscomputer met geavanceerde smart functies.",
     "info": "De Apple iCycle is een premium fietscomputer die is ontworpen om uw fietservaring te verbeteren. Het beschikt over GPS-navigatie, een hartslagmonitor, en een breed scala aan fiets-specifieke functies om uw prestaties te volgen, allemaal naadloos geïntegreerd met het Apple ecosysteem.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWIshlist": false,
+    "inStock": true,
     "specifications": [
       "GPS: Ingebouwde GPS-navigatie",
       "Hartslagmonitor: Ingebouwde hartslagmonitor",
@@ -435,21 +451,23 @@
     "index": 9,
     "articleName": "cyclo",
     "price": 199.99,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_gps-4.webp",
     "type": {
       "id": 6,
       "typeName": "Fiets computer",
       "description": "Een apparaat voor het meten en analyseren van fietsprestaties.",
-      "tags": ["technologie", "meting"],
+      "tags": [
+        "technologie",
+        "meting"
+      ],
       "statusActive": true
     },
     "brand": "Mio",
     "infoShort": "Een gebruiksvriendelijke fietscomputer met navigatie en trainingsfuncties.",
     "info": "De Mio Cyclo is een gebruiksvriendelijke fietscomputer die is ontworpen om uw fietservaring te verbeteren. Het beschikt over GPS-navigatie, trainingsfuncties, en een breed scala aan fiets-specifieke functies om uw prestaties te volgen.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWIshlist": false,
+    "inStock": true,
     "specifications": [
       "GPS: Ingebouwde GPS-navigatie",
       "Trainingsfuncties: Ingebouwde trainingsfuncties",
@@ -489,21 +507,23 @@
     "index": 10,
     "articleName": "Flow",
     "price": 99.99,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_helmet-1.webp",
     "type": {
       "id": 1,
       "typeName": "Helm",
       "description": "Een beschermende helm voor fietsers.",
-      "tags": ["veiligheid", "bescherming"],
+      "tags": [
+        "veiligheid",
+        "bescherming"
+      ],
       "statusActive": true
     },
     "brand": "POC",
     "infoShort": "Een lichtgewicht helm ontworpen voor comfort en veiligheid.",
     "info": "De POC Flow Helm is een lichtgewicht helm die is ontworpen voor zowel comfort als veiligheid. Het beschikt over een geavanceerd ventilatiesysteem om je koel te houden en een verstelbare pasvorm voor maximaal comfort.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWIshlist": false,
+    "inStock": true,
     "specifications": [
       "Materiaal: Hoogwaardig polycarbonaat",
       "Ventilatie: Geavanceerd ventilatiesysteem",
@@ -543,21 +563,23 @@
     "index": 11,
     "articleName": "Style",
     "price": 279.0,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_helmet-4.webp",
     "type": {
       "id": 1,
       "typeName": "Helm",
       "description": "Een beschermende helm voor fietsers.",
-      "tags": ["veiligheid", "bescherming"],
+      "tags": [
+        "veiligheid",
+        "bescherming"
+      ],
       "statusActive": true
     },
     "brand": "POC",
     "infoShort": "Een stijlvolle helm ontworpen voor comfort en veiligheid.",
     "info": "De POC Style Helm is een stijlvolle helm die is ontworpen voor zowel comfort als veiligheid. Het beschikt over een geavanceerd ventilatiesysteem om je koel te houden en een verstelbare pasvorm voor maximaal comfort.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWIshlist": false,
+    "inStock": true,
     "specifications": [
       "Materiaal: Hoogwaardig polycarbonaat",
       "Ventilatie: Geavanceerd ventilatiesysteem",
@@ -597,21 +619,23 @@
     "index": 12,
     "articleName": "carbon Light",
     "price": 559.0,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_helmet-3.webp",
     "type": {
       "id": 1,
       "typeName": "Helm",
       "description": "Een beschermende helm voor fietsers.",
-      "tags": ["veiligheid", "bescherming"],
+      "tags": [
+        "veiligheid",
+        "bescherming"
+      ],
       "statusActive": true
     },
     "brand": "POC",
     "infoShort": "Een ultralichte helm ontworpen voor comfort en veiligheid.",
     "info": "De POC Carbon Light Helm is een ultralichte helm die is ontworpen voor zowel comfort als veiligheid. Het beschikt over een geavanceerd ventilatiesysteem om je koel te houden en een verstelbare pasvorm voor maximaal comfort.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWIshlist": false,
+    "inStock": false,
     "specifications": [
       "Materiaal: Hoogwaardig carbon",
       "Ventilatie: Geavanceerd ventilatiesysteem",
@@ -651,21 +675,23 @@
     "index": 13,
     "articleName": "iHelmet",
     "price": 2099.0,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_helmet-2.webp",
     "type": {
       "id": 1,
       "typeName": "Helm",
       "description": "Een beschermende helm voor fietsers.",
-      "tags": ["veiligheid", "bescherming"],
+      "tags": [
+        "veiligheid",
+        "bescherming"
+      ],
       "statusActive": true
     },
     "brand": "Apple",
     "infoShort": "Een premium helm met geavanceerde smart functies.",
     "info": "De Apple iHelmet Helm is een premium helm die is ontworpen voor de moderne fietser. Het beschikt over een geavanceerd ventilatiesysteem om je koel te houden, een verstelbare pasvorm voor maximaal comfort, en een reeks slimme functies om uw ritten te verbeteren, allemaal naadloos geïntegreerd met het Apple ecosysteem.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWIshlist": false,
+    "inStock": true,
     "specifications": [
       "Materiaal: Hoogwaardig polycarbonaat",
       "Ventilatie: Geavanceerd ventilatiesysteem",
@@ -705,21 +731,23 @@
     "index": 14,
     "articleName": "Money Saver",
     "price": 19.99,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_helmet-5.webp",
     "type": {
       "id": 1,
       "typeName": "Helm",
       "description": "Een beschermende helm voor fietsers.",
-      "tags": ["veiligheid", "bescherming"],
+      "tags": [
+        "veiligheid",
+        "bescherming"
+      ],
       "statusActive": true
     },
     "brand": "POC",
     "infoShort": "Een betaalbare helm ontworpen voor comfort en veiligheid.",
     "info": "De POC Money Saver Helm is een betaalbare helm die is ontworpen voor zowel comfort als veiligheid. Het beschikt over een geavanceerd ventilatiesysteem om je koel te houden en een verstelbare pasvorm voor maximaal comfort.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWIshlist": false,
+    "inStock": true,
     "specifications": [
       "Materiaal: Hoogwaardig polycarbonaat",
       "Ventilatie: Geavanceerd ventilatiesysteem",
@@ -759,21 +787,23 @@
     "index": 15,
     "articleName": "GXT-50",
     "price": 45.99,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_gloves-1.webp",
     "type": {
       "id": 5,
       "typeName": "Fiets handschoenen",
       "description": "Handschoenen ter bescherming en comfort tijdens het fietsen.",
-      "tags": ["handschoenen", "comfort"],
+      "tags": [
+        "handschoenen",
+        "comfort"
+      ],
       "statusActive": true
     },
     "brand": "BikePro",
     "infoShort": "Hoogwaardige, duurzame en comfortabele mountainbike handschoenen.",
     "info": "Deze BikePro mountainbike handschoenen zijn ontworpen voor maximaal comfort en bescherming. Ze hebben een versterkte handpalm voor extra grip en een verstelbare polsband voor een stevige pasvorm. De handschoenen hebben ook ventilatieopeningen om je handen koel te houden tijdens lange ritten.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWishlist": false,
+    "inStock": true,
     "specifications": [
       "Materiaal: Synthetisch leer en mesh",
       "Kleur: Zwart",
@@ -813,21 +843,23 @@
     "index": 16,
     "articleName": "GXT-10",
     "price": 19.99,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_gloves-3.webp",
     "type": {
       "id": 5,
       "typeName": "Fiets handschoenen",
       "description": "Handschoenen ter bescherming en comfort tijdens het fietsen.",
-      "tags": ["handschoenen", "comfort"],
+      "tags": [
+        "handschoenen",
+        "comfort"
+      ],
       "statusActive": true
     },
     "brand": "BikePro",
     "infoShort": "Stijlvolle en hoogwaardige mountainbike handschoenen.",
     "info": "Deze BikePro mountainbike handschoenen zijn ontworpen met een strak blauw ontwerp en hoogwaardige materialen. Ze hebben een versterkte handpalm voor extra grip en een verstelbare polsband voor een stevige pasvorm.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWishlist": false,
+    "inStock": false,
     "specifications": [
       "Materiaal: Lage kwaliteit synthetisch leer",
       "Kleur: Blauw",
@@ -867,21 +899,23 @@
     "index": 17,
     "articleName": "GXT-100",
     "price": 59.99,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_gloves-2.webp",
     "type": {
       "id": 5,
       "typeName": "Fiets handschoenen",
       "description": "Handschoenen ter bescherming en comfort tijdens het fietsen.",
-      "tags": ["handschoenen", "comfort"],
+      "tags": [
+        "handschoenen",
+        "comfort"
+      ],
       "statusActive": true
     },
     "brand": "BikePro",
     "infoShort": "Hoogwaardige, duurzame en comfortabele mountainbike handschoenen.",
     "info": "Deze BikePro mountainbike handschoenen zijn ontworpen voor maximaal comfort en bescherming. Ze hebben een versterkte handpalm voor extra grip, een verstelbare polsband voor een stevige pasvorm en zijn gemaakt van hoogwaardige materialen voor duurzaamheid. De handschoenen hebben ook ventilatieopeningen om je handen koel te houden tijdens lange ritten.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWishlist": false,
+    "inStock": true,
     "specifications": [
       "Materiaal: Hoogwaardig synthetisch leer en mesh",
       "Kleur: Zwart",
@@ -921,21 +955,23 @@
     "index": 18,
     "articleName": "Blazers",
     "price": 99.99,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_shoes-2.webp",
     "type": {
       "id": 4,
       "typeName": "Fiets schoenen",
       "description": "Schoenen geschikt voor fietsen, met goede grip en comfort.",
-      "tags": ["schoenen", "comfort"],
+      "tags": [
+        "schoenen",
+        "comfort"
+      ],
       "statusActive": true
     },
     "brand": "BikePro",
     "infoShort": "Stevige, comfortabele en efficiënte mountainbike schoenen.",
     "info": "Deze BikePro mountainbike schoenen zijn ontworpen voor maximale efficiëntie en comfort. Ze hebben een stijve zool voor optimale krachtoverdracht en een veilig pasvormsysteem voor de hele dag comfort. De schoenen hebben ook ademend materiaal om je voeten koel te houden tijdens lange ritten.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWishlist": false,
+    "inStock": true,
     "specifications": [
       "Materiaal: Synthetisch leer en mesh",
       "Kleur: Zwart",
@@ -975,21 +1011,23 @@
     "index": 19,
     "articleName": "Jumpers",
     "price": 199.99,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_shoes-1.webp",
     "type": {
       "id": 4,
       "typeName": "Fiets schoenen",
       "description": "Schoenen geschikt voor fietsen, met goede grip en comfort.",
-      "tags": ["schoenen", "comfort"],
+      "tags": [
+        "schoenen",
+        "comfort"
+      ],
       "statusActive": true
     },
     "brand": "EliteRide",
     "infoShort": "Stijlvolle mountainbike schoenen met een unieke kleurveranderende functie.",
     "info": "Deze EliteRide mountainbike schoenen zijn ontworpen voor degenen die willen opvallen op de paden. Ze hebben een uniek kleurveranderend materiaal dat reageert op temperatuurveranderingen. Hoewel deze functie cool is, verbetert het de prestaties of het comfort niet. De schoenen hebben ook een stijve zool voor optimale krachtoverdracht en een veilig pasvormsysteem, maar de kwaliteit komt niet helemaal overeen met de hoge prijs.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWIshlist": false,
+    "inStock": true,
     "specifications": [
       "Materiaal: Synthetisch leer en kleurveranderende stof",
       "Kleur: Varieert met temperatuur",
@@ -1029,21 +1067,23 @@
     "index": 20,
     "articleName": "Freebird",
     "price": 120.99,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_outfit-1.webp",
     "type": {
       "id": 2,
       "typeName": "Fietsoutfit",
       "description": "Kledingset speciaal ontworpen voor fietsers.",
-      "tags": ["kleding", "comfort"],
+      "tags": [
+        "kleding",
+        "comfort"
+      ],
       "statusActive": true
     },
     "brand": "Trek",
     "infoShort": "Stijlvolle en comfortabele mountainbike-outfit.",
     "info": "Deze BikePro mountainbike-outfit bestaat uit een shirt en fietsbroek die zijn ontworpen voor maximaal comfort en stijl. Het shirt is voorzien van ademend materiaal om je koel te houden tijdens lange ritten, en de broek heeft een gevoerd zitvlak voor extra comfort. De outfit is stijlvol ontworpen met een moderne uitstraling die perfect bij elkaar past.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWishlist": false,
+    "inStock": false,
     "specifications": [
       "Materiaal: Polyester en Spandex",
       "Kleur: Zwart en Groen",
@@ -1083,21 +1123,23 @@
     "index": 21,
     "articleName": "Fiets Repair Kit",
     "price": 25.99,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_rapair-1.webp",
     "type": {
       "id": 3,
       "typeName": "Fiets accessoires",
       "description": "Diverse accessoires voor het optimaliseren van de fietservaring.",
-      "tags": ["accessoires", "handig"],
+      "tags": [
+        "accessoires",
+        "handig"
+      ],
       "statusActive": true
     },
     "brand": "CyclePro",
     "infoShort": "Een compacte en handige reparatieset voor je fiets.",
     "info": "Deze CyclePro Fiets Repair Kit bevat alles wat je nodig hebt om je fiets onderweg te repareren. Inclusief bandenlichters, patches, lijm en multifunctioneel gereedschap.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWIshlist": false,
+    "inStock": true,
     "specifications": [
       "Compact en lichtgewicht",
       "Inclusief bandenlichters, patches, lijm",
@@ -1137,21 +1179,23 @@
     "index": 22,
     "articleName": "cleaning Kit",
     "price": 29.99,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_clean-1.webp",
     "type": {
       "id": 3,
       "typeName": "Fiets accessoires",
       "description": "Diverse accessoires voor het optimaliseren van de fietservaring.",
-      "tags": ["accessoires", "handig"],
+      "tags": [
+        "accessoires",
+        "handig"
+      ],
       "statusActive": true
     },
     "brand": "ShineCycle",
     "infoShort": "Een complete set voor het schoonmaken en onderhouden van je fiets.",
     "info": "De ShineCycle Fiets Poets Kit bevat alles wat je nodig hebt om je fiets er als nieuw uit te laten zien. Inclusief schoonmaakmiddel, poetsdoeken, borstels en een handige draagtas.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWIshlist": false,
+    "inStock": true,
     "specifications": [
       "Inclusief schoonmaakmiddel, poetsdoeken, borstels",
       "Wordt geleverd met een handige draagtas",
@@ -1191,21 +1235,23 @@
     "index": 23,
     "articleName": "Hand Fietspomp",
     "price": 14.99,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_pump-1.webp",
     "type": {
       "id": 3,
       "typeName": "Fiets accessoires",
       "description": "Diverse accessoires voor het optimaliseren van de fietservaring.",
-      "tags": ["accessoires", "handig"],
+      "tags": [
+        "accessoires",
+        "handig"
+      ],
       "statusActive": true
     },
     "brand": "PumpPro",
     "infoShort": "Een draagbare en efficiënte handpomp voor je fiets.",
     "info": "De PumpPro Hand Fietspomp is een essentieel accessoire voor elke fietser. Het is lichtgewicht, compact en gemakkelijk te gebruiken. Het heeft een flexibele slang en is compatibel met zowel Presta- als Schrader-ventielen.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWIshlist": false,
+    "inStock": true,
     "specifications": [
       "Lichtgewicht en draagbaar",
       "Flexibele slang",
@@ -1245,21 +1291,23 @@
     "index": 24,
     "articleName": "Protecto Spray",
     "price": 9.99,
-    "lastSold": "2024-02-26T12:26:11.000Z",
+    "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_spray-1.webp",
     "type": {
       "id": 3,
       "typeName": "Fiets accessoires",
       "description": "Diverse accessoires voor het optimaliseren van de fietservaring.",
-      "tags": ["accessoires", "handig"],
+      "tags": [
+        "accessoires",
+        "handig"
+      ],
       "statusActive": true
     },
     "brand": "ProtectPro",
     "infoShort": "Een hoogwaardige spray voor het beschermen van je fietsframe.",
     "info": "De ProtectPro Frame Protector Spray biedt een uitstekende bescherming voor je fietsframe tegen krassen, vuil en corrosie. Het is gemakkelijk aan te brengen en droogt snel.",
     "count": 0,
-    "isOnCart": false,
-    "isOnWIshlist": false,
+    "inStock": false,
     "specifications": [
       "Biedt bescherming tegen krassen, vuil en corrosie",
       "Gemakkelijk aan te brengen",
