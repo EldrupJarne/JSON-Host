@@ -1,7 +1,7 @@
 [
   {
     "index": 1,
-    "articleName": "Giant Trail 29er",
+    "articleName": "Trail 29er",
     "price": 1499.99,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://raw.githubusercontent.com/EldrupJarne/JSON-Host/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_bike-1.webp",
@@ -55,7 +55,7 @@
   },
   {
     "index": 2,
-    "articleName": "Canion Ride 27.5",
+    "articleName": "Ride 27.5",
     "price": 1199.99,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_bike-2.webp",
@@ -109,7 +109,7 @@
   },
   {
     "index": 3,
-    "articleName": "Cube Jump 29",
+    "articleName": "Jump 29",
     "price": 799.5,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_bike-3.webp",
@@ -163,7 +163,7 @@
   },
   {
     "index": 4,
-    "articleName": "Trek Pinnacle",
+    "articleName": "Pinnacle",
     "price": 1200.0,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_bike-5.webp",
@@ -217,7 +217,7 @@
   },
   {
     "index": 5,
-    "articleName": "Mondraker Drako-29",
+    "articleName": "Drako-29",
     "price": 3500.0,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_bike-4.webp",
@@ -271,7 +271,7 @@
   },
   {
     "index": 6,
-    "articleName": "Garmin E501",
+    "articleName": "E501",
     "price": 200.0,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_gps-3.webp",
@@ -325,7 +325,7 @@
   },
   {
     "index": 7,
-    "articleName": "Samsung Galaxy Bike Pro",
+    "articleName": "Galaxy Bike Pro",
     "price": 299.0,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_gps-2.webp",
@@ -379,7 +379,7 @@
   },
   {
     "index": 8,
-    "articleName": "Apple iCycle",
+    "articleName": "iCycle",
     "price": 1599.99,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_gps-1.webp",
@@ -433,7 +433,7 @@
   },
   {
     "index": 9,
-    "articleName": "Mio cyclo",
+    "articleName": "cyclo",
     "price": 199.99,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_gps-4.webp",
@@ -487,7 +487,7 @@
   },
   {
     "index": 10,
-    "articleName": "POC Flow",
+    "articleName": "Flow",
     "price": 99.99,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_helmet-1.webp",
@@ -541,7 +541,7 @@
   },
   {
     "index": 11,
-    "articleName": "POC Style",
+    "articleName": "Style",
     "price": 279.0,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_helmet-4.webp",
@@ -595,7 +595,7 @@
   },
   {
     "index": 12,
-    "articleName": "POC carbon Light",
+    "articleName": "carbon Light",
     "price": 559.0,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_helmet-3.webp",
@@ -649,7 +649,7 @@
   },
   {
     "index": 13,
-    "articleName": "Apple iHelmet",
+    "articleName": "iHelmet",
     "price": 2099.0,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_helmet-2.webp",
@@ -703,7 +703,7 @@
   },
   {
     "index": 14,
-    "articleName": "POC Money Saver",
+    "articleName": "Money Saver",
     "price": 19.99,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_helmet-5.webp",
@@ -757,7 +757,7 @@
   },
   {
     "index": 15,
-    "articleName": "BikePro GXT-50",
+    "articleName": "GXT-50",
     "price": 45.99,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_gloves-1.webp",
@@ -811,7 +811,7 @@
   },
   {
     "index": 16,
-    "articleName": "BikePro GXT-10",
+    "articleName": "GXT-10",
     "price": 19.99,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_gloves-3.webp",
@@ -865,7 +865,7 @@
   },
   {
     "index": 17,
-    "articleName": "BikePro GXT-100",
+    "articleName": "GXT-100",
     "price": 59.99,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_gloves-2.webp",
@@ -919,7 +919,7 @@
   },
   {
     "index": 18,
-    "articleName": "BikePro Blazers",
+    "articleName": "Blazers",
     "price": 99.99,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_shoes-2.webp",
@@ -973,7 +973,7 @@
   },
   {
     "index": 19,
-    "articleName": "BikePro Jumpers",
+    "articleName": "Jumpers",
     "price": 199.99,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_shoes-1.webp",
@@ -1027,7 +1027,7 @@
   },
   {
     "index": 20,
-    "articleName": "Trek Freebird",
+    "articleName": "Freebird",
     "price": 120.99,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_outfit-1.webp",
@@ -1081,7 +1081,7 @@
   },
   {
     "index": 21,
-    "articleName": "CyclePro Fiets Repair Kit",
+    "articleName": "Fiets Repair Kit",
     "price": 25.99,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_rapair-1.webp",
@@ -1135,7 +1135,7 @@
   },
   {
     "index": 22,
-    "articleName": "ShineCycle Fiets Poets Kit",
+    "articleName": "Fiets Poets Kit",
     "price": 29.99,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_clean-1.webp",
@@ -1189,7 +1189,7 @@
   },
   {
     "index": 23,
-    "articleName": "PumpPro Hand Fietspomp",
+    "articleName": "Hand Fietspomp",
     "price": 14.99,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_pump-1.webp",
@@ -1243,7 +1243,7 @@
   },
   {
     "index": 24,
-    "articleName": "ProtectPro Frame Protector Spray",
+    "articleName": "Frame Protector Spray",
     "price": 9.99,
     "lastSold": "2024-02-26T12:26:11.000Z",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_spray-1.webp",
