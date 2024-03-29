@@ -1,51 +1,92 @@
 [
   {
     "id": 0,
-    "typeName": "Mountainbike",
-    "description": "Een robuuste fiets geschikt voor off-road terrein.",
-    "tags": ["sport", "avontuur"],
+    "typeName": "Mountain Bike",
+    "description": "A rugged bike suitable for off-road terrain.",
+    "tags": [
+      "sport",
+      "adventure"
+    ],
     "statusActive": true
   },
   {
     "id": 1,
-    "typeName": "Helm",
-    "description": "Een beschermende helm voor fietsers.",
-    "tags": ["veiligheid", "bescherming"],
+    "typeName": "Helmet",
+    "description": "A protective helmet for cyclists.",
+    "tags": [
+      "safety",
+      "protection"
+    ],
     "statusActive": true
   },
   {
     "id": 2,
-    "typeName": "Fietsoutfit",
-    "description": "Kledingset speciaal ontworpen voor fietsers.",
-    "tags": ["kleding", "comfort"],
+    "typeName": "Cycling Outfit",
+    "description": "Clothing set specially designed for cyclists.",
+    "tags": [
+      "clothing",
+      "comfort"
+    ],
     "statusActive": true
   },
   {
     "id": 3,
-    "typeName": "Fiets accessoires",
-    "description": "Diverse accessoires voor het optimaliseren van de fietservaring.",
-    "tags": ["accessoires", "handig"],
+    "typeName": "Bike Accessories",
+    "description": "Various accessories to optimize the biking experience.",
+    "tags": [
+      "accessories",
+      "convenient"
+    ],
     "statusActive": true
   },
   {
     "id": 4,
-    "typeName": "Fiets schoenen",
-    "description": "Schoenen geschikt voor fietsen, met goede grip en comfort.",
-    "tags": ["schoenen", "comfort"],
+    "typeName": "Cycling Shoes",
+    "description": "Shoes suitable for cycling, providing good grip and comfort.",
+    "tags": [
+      "shoes",
+      "comfort"
+    ],
     "statusActive": true
   },
   {
     "id": 5,
-    "typeName": "Fiets handschoenen",
-    "description": "Handschoenen ter bescherming en comfort tijdens het fietsen.",
-    "tags": ["handschoenen", "comfort"],
+    "typeName": "Cycling Gloves",
+    "description": "Gloves for protection and comfort during cycling.",
+    "tags": [
+      "gloves",
+      "comfort"
+    ],
     "statusActive": true
   },
   {
     "id": 6,
-    "typeName": "Fiets computer",
-    "description": "Een apparaat voor het meten en analyseren van fietsprestaties.",
-    "tags": ["technologie", "meting"],
+    "typeName": "Bike Computer",
+    "description": "A device for measuring and analyzing cycling performance.",
+    "tags": [
+      "technology",
+      "measurement"
+    ],
     "statusActive": true
+  },
+  {
+    "id": 7,
+    "typeName": "Water Bottle Holder",
+    "description": "A holder for conveniently carrying water bottles during rides.",
+    "tags": [
+      "accessories",
+      "hydration"
+    ],
+    "statusActive": false
+  },
+  {
+    "id": 8,
+    "typeName": "Bike Repair Kit",
+    "description": "A compact kit containing tools for bike repairs on the go.",
+    "tags": [
+      "accessories",
+      "maintenance"
+    ],
+    "statusActive": false
   }
 ]
