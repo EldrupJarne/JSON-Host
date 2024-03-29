@@ -74,7 +74,7 @@
     "brand": "Canion",
     "infoShort": "Een veelzijdige mountainbike ontworpen voor zowel trail als stadsritten.",
     "info": "De Canion Ride 27.5 is een veelzijdige mountainbike die zowel thuis is op stadsstraten als op bergpaden. Het beschikt over een stevig frame, 27,5-inch wielen voor een balans van controle en snelheid, en een betrouwbaar versnellingssysteem voor een breed scala aan terreinen.",
-    "count": 0,
+    "count": 20,
     "inStock": true,
     "specifications": [
       "Frame: Stevig Staal",
@@ -130,7 +130,7 @@
     "brand": "Cube",
     "infoShort": "Een robuuste mountainbike ontworpen voor sprongen en technische trails.",
     "info": "De Cube Jump 29 is een robuuste mountainbike die is ontworpen voor sprongen en technische trails. Het beschikt over een sterk frame, 29-inch wielen voor superieure controle, en een geavanceerd veersysteem voor een soepele rit.",
-    "count": 0,
+    "count": 5,
     "inStock": true,
     "specifications": [
       "Frame: Sterk Staal",
@@ -186,7 +186,7 @@
     "brand": "Trek",
     "infoShort": "Duurzame en efficiënte 26-inch hardtail mountainbike van Trek.",
     "info": "Deze Trek mountainbike heeft een 26-inch hardtail frame voor een soepele en efficiënte rit. De fiets is ontworpen voor off-road fietsen en komt in een prachtige kleur van starlight purple. Het is gebouwd met hoogwaardige componenten voor duurzaamheid en prestaties.",
-    "count": 0,
+    "count": 8,
     "inStock": true,
     "specifications": [
       "Frame: 26-inch hardtail",
@@ -242,8 +242,8 @@
     "brand": "Mondraker",
     "infoShort": "High-performance full suspension mountainbike van Mondraker.",
     "info": "Deze Mondraker mountainbike heeft een volledig geveerd frame voor een soepele en efficiënte rit. De fiets is ontworpen voor off-road fietsen en komt in een opvallend goud- en zwartkleurenschema. Het is gebouwd met hoogwaardige componenten voor duurzaamheid en prestaties, waaronder een zwarte verende voorvork en achtervering, schijfremmen en noppenbanden.",
-    "count": 0,
-    "inStock": false,
+    "count": 13,
+    "inStock": true,
     "specifications": [
       "Frame: Volledig geveerd",
       "Kleur: Goud en Zwart",
@@ -299,7 +299,7 @@
     "infoShort": "Een geavanceerde fietscomputer met GPS en hartslagmonitor.",
     "info": "De Garmin E501 is een geavanceerde fietscomputer die is ontworpen om uw ritten te verbeteren. Het beschikt over GPS-navigatie, een hartslagmonitor, en een breed scala aan fiets-specifieke functies om uw prestaties te volgen.",
     "count": 0,
-    "inStock": true,
+    "inStock": false,
     "specifications": [
       "GPS: Ingebouwde GPS-navigatie",
       "Hartslagmonitor: Ingebouwde hartslagmonitor",
@@ -410,7 +410,7 @@
     "brand": "Apple",
     "infoShort": "Een premium fietscomputer met geavanceerde smart functies.",
     "info": "De Apple iCycle is een premium fietscomputer die is ontworpen om uw fietservaring te verbeteren. Het beschikt over GPS-navigatie, een hartslagmonitor, en een breed scala aan fiets-specifieke functies om uw prestaties te volgen, allemaal naadloos geïntegreerd met het Apple ecosysteem.",
-    "count": 0,
+    "count": 21,
     "inStock": true,
     "specifications": [
       "GPS: Ingebouwde GPS-navigatie",
@@ -466,7 +466,7 @@
     "brand": "Mio",
     "infoShort": "Een gebruiksvriendelijke fietscomputer met navigatie en trainingsfuncties.",
     "info": "De Mio Cyclo is een gebruiksvriendelijke fietscomputer die is ontworpen om uw fietservaring te verbeteren. Het beschikt over GPS-navigatie, trainingsfuncties, en een breed scala aan fiets-specifieke functies om uw prestaties te volgen.",
-    "count": 0,
+    "count": 14,
     "inStock": true,
     "specifications": [
       "GPS: Ingebouwde GPS-navigatie",
@@ -522,7 +522,7 @@
     "brand": "POC",
     "infoShort": "Een lichtgewicht helm ontworpen voor comfort en veiligheid.",
     "info": "De POC Flow Helm is een lichtgewicht helm die is ontworpen voor zowel comfort als veiligheid. Het beschikt over een geavanceerd ventilatiesysteem om je koel te houden en een verstelbare pasvorm voor maximaal comfort.",
-    "count": 0,
+    "count": 25,
     "inStock": true,
     "specifications": [
       "Materiaal: Hoogwaardig polycarbonaat",
@@ -578,7 +578,7 @@
     "brand": "POC",
     "infoShort": "Een stijlvolle helm ontworpen voor comfort en veiligheid.",
     "info": "De POC Style Helm is een stijlvolle helm die is ontworpen voor zowel comfort als veiligheid. Het beschikt over een geavanceerd ventilatiesysteem om je koel te houden en een verstelbare pasvorm voor maximaal comfort.",
-    "count": 0,
+    "count": 25,
     "inStock": true,
     "specifications": [
       "Materiaal: Hoogwaardig polycarbonaat",
@@ -690,7 +690,7 @@
     "brand": "Apple",
     "infoShort": "Een premium helm met geavanceerde smart functies.",
     "info": "De Apple iHelmet Helm is een premium helm die is ontworpen voor de moderne fietser. Het beschikt over een geavanceerd ventilatiesysteem om je koel te houden, een verstelbare pasvorm voor maximaal comfort, en een reeks slimme functies om uw ritten te verbeteren, allemaal naadloos geïntegreerd met het Apple ecosysteem.",
-    "count": 0,
+    "count": 10,
     "inStock": true,
     "specifications": [
       "Materiaal: Hoogwaardig polycarbonaat",
@@ -746,7 +746,7 @@
     "brand": "POC",
     "infoShort": "Een betaalbare helm ontworpen voor comfort en veiligheid.",
     "info": "De POC Money Saver Helm is een betaalbare helm die is ontworpen voor zowel comfort als veiligheid. Het beschikt over een geavanceerd ventilatiesysteem om je koel te houden en een verstelbare pasvorm voor maximaal comfort.",
-    "count": 0,
+    "count": 1,
     "inStock": true,
     "specifications": [
       "Materiaal: Hoogwaardig polycarbonaat",
@@ -802,7 +802,7 @@
     "brand": "BikePro",
     "infoShort": "Hoogwaardige, duurzame en comfortabele mountainbike handschoenen.",
     "info": "Deze BikePro mountainbike handschoenen zijn ontworpen voor maximaal comfort en bescherming. Ze hebben een versterkte handpalm voor extra grip en een verstelbare polsband voor een stevige pasvorm. De handschoenen hebben ook ventilatieopeningen om je handen koel te houden tijdens lange ritten.",
-    "count": 0,
+    "count": 25,
     "inStock": true,
     "specifications": [
       "Materiaal: Synthetisch leer en mesh",
@@ -914,7 +914,7 @@
     "brand": "BikePro",
     "infoShort": "Hoogwaardige, duurzame en comfortabele mountainbike handschoenen.",
     "info": "Deze BikePro mountainbike handschoenen zijn ontworpen voor maximaal comfort en bescherming. Ze hebben een versterkte handpalm voor extra grip, een verstelbare polsband voor een stevige pasvorm en zijn gemaakt van hoogwaardige materialen voor duurzaamheid. De handschoenen hebben ook ventilatieopeningen om je handen koel te houden tijdens lange ritten.",
-    "count": 0,
+    "count": 22,
     "inStock": true,
     "specifications": [
       "Materiaal: Hoogwaardig synthetisch leer en mesh",
@@ -970,7 +970,7 @@
     "brand": "BikePro",
     "infoShort": "Stevige, comfortabele en efficiënte mountainbike schoenen.",
     "info": "Deze BikePro mountainbike schoenen zijn ontworpen voor maximale efficiëntie en comfort. Ze hebben een stijve zool voor optimale krachtoverdracht en een veilig pasvormsysteem voor de hele dag comfort. De schoenen hebben ook ademend materiaal om je voeten koel te houden tijdens lange ritten.",
-    "count": 0,
+    "count": 150,
     "inStock": true,
     "specifications": [
       "Materiaal: Synthetisch leer en mesh",
@@ -1026,7 +1026,7 @@
     "brand": "EliteRide",
     "infoShort": "Stijlvolle mountainbike schoenen met een unieke kleurveranderende functie.",
     "info": "Deze EliteRide mountainbike schoenen zijn ontworpen voor degenen die willen opvallen op de paden. Ze hebben een uniek kleurveranderend materiaal dat reageert op temperatuurveranderingen. Hoewel deze functie cool is, verbetert het de prestaties of het comfort niet. De schoenen hebben ook een stijve zool voor optimale krachtoverdracht en een veilig pasvormsysteem, maar de kwaliteit komt niet helemaal overeen met de hoge prijs.",
-    "count": 0,
+    "count": 50,
     "inStock": true,
     "specifications": [
       "Materiaal: Synthetisch leer en kleurveranderende stof",
@@ -1138,7 +1138,7 @@
     "brand": "CyclePro",
     "infoShort": "Een compacte en handige reparatieset voor je fiets.",
     "info": "Deze CyclePro Fiets Repair Kit bevat alles wat je nodig hebt om je fiets onderweg te repareren. Inclusief bandenlichters, patches, lijm en multifunctioneel gereedschap.",
-    "count": 0,
+    "count": 90,
     "inStock": true,
     "specifications": [
       "Compact en lichtgewicht",
@@ -1194,7 +1194,7 @@
     "brand": "ShineCycle",
     "infoShort": "Een complete set voor het schoonmaken en onderhouden van je fiets.",
     "info": "De ShineCycle Fiets Poets Kit bevat alles wat je nodig hebt om je fiets er als nieuw uit te laten zien. Inclusief schoonmaakmiddel, poetsdoeken, borstels en een handige draagtas.",
-    "count": 0,
+    "count": 169,
     "inStock": true,
     "specifications": [
       "Inclusief schoonmaakmiddel, poetsdoeken, borstels",
@@ -1250,7 +1250,7 @@
     "brand": "PumpPro",
     "infoShort": "Een draagbare en efficiënte handpomp voor je fiets.",
     "info": "De PumpPro Hand Fietspomp is een essentieel accessoire voor elke fietser. Het is lichtgewicht, compact en gemakkelijk te gebruiken. Het heeft een flexibele slang en is compatibel met zowel Presta- als Schrader-ventielen.",
-    "count": 0,
+    "count": 14,
     "inStock": true,
     "specifications": [
       "Lichtgewicht en draagbaar",
