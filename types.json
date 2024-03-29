@@ -1,8 +1,8 @@
 [
   {
     "id": 0,
-    "typeName": "Mountain Bike",
-    "description": "A rugged bike suitable for off-road terrain.",
+    "typeName": "Full suspension mountain bike",
+    "description": "A bike suitable for rugged terrain.",
     "tags": [
       "sport",
       "adventure"
@@ -11,6 +11,16 @@
   },
   {
     "id": 1,
+    "typeName": "Hard tail mountain bike",
+    "description": "A bike suitable for off-road terrain.",
+    "tags": [
+      "sport",
+      "adventure"
+    ],
+    "statusActive": true
+  },
+  {
+    "id": 2,
     "typeName": "Helmet",
     "description": "A protective helmet for cyclists.",
     "tags": [
@@ -20,17 +30,17 @@
     "statusActive": true
   },
   {
-    "id": 2,
+    "id": 3,
     "typeName": "Cycling Outfit",
     "description": "Clothing set specially designed for cyclists.",
     "tags": [
       "clothing",
       "comfort"
     ],
-    "statusActive": true
+    "statusActive": false
   },
   {
-    "id": 3,
+    "id": 4,
     "typeName": "Bike Accessories",
     "description": "Various accessories to optimize the biking experience.",
     "tags": [
@@ -40,7 +50,7 @@
     "statusActive": true
   },
   {
-    "id": 4,
+    "id": 5,
     "typeName": "Cycling Shoes",
     "description": "Shoes suitable for cycling, providing good grip and comfort.",
     "tags": [
@@ -50,17 +60,17 @@
     "statusActive": true
   },
   {
-    "id": 5,
+    "id": 6,
     "typeName": "Cycling Gloves",
     "description": "Gloves for protection and comfort during cycling.",
     "tags": [
       "gloves",
       "comfort"
     ],
-    "statusActive": true
+    "statusActive": false
   },
   {
-    "id": 6,
+    "id": 7,
     "typeName": "Bike Computer",
     "description": "A device for measuring and analyzing cycling performance.",
     "tags": [
@@ -70,7 +80,7 @@
     "statusActive": true
   },
   {
-    "id": 7,
+    "id": 8,
     "typeName": "Water Bottle Holder",
     "description": "A holder for conveniently carrying water bottles during rides.",
     "tags": [
@@ -80,13 +90,13 @@
     "statusActive": false
   },
   {
-    "id": 8,
+    "id": 9,
     "typeName": "Bike Repair Kit",
     "description": "A compact kit containing tools for bike repairs on the go.",
     "tags": [
       "accessories",
       "maintenance"
     ],
-    "statusActive": false
+    "statusActive": true
   }
 ]
