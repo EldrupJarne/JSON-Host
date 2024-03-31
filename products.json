@@ -240,42 +240,42 @@
       "statusActive": true
     },
     "brand": "Mondraker",
-    "infoShort": "High-performance full suspension mountainbike van Mondraker.",
-    "info": "Deze Mondraker mountainbike heeft een volledig geveerd frame voor een soepele en efficiënte rit. De fiets is ontworpen voor off-road fietsen en komt in een opvallend goud- en zwartkleurenschema. Het is gebouwd met hoogwaardige componenten voor duurzaamheid en prestaties, waaronder een zwarte verende voorvork en achtervering, schijfremmen en noppenbanden.",
+    "infoShort": "High-performance full suspension mountain bike from Mondraker.",
+    "info": "This Mondraker mountain bike features a fully suspended frame for a smooth and efficient ride. The bike is designed for off-road cycling and comes in a striking gold and black color scheme. It's built with high-quality components for durability and performance, including a black front suspension fork and rear suspension, disc brakes, and knobby tires.",
     "count": 13,
     "inStock": true,
     "specifications": [
-      "Frame: Volledig geveerd",
-      "Kleur: Goud en Zwart",
-      "Merk: Mondraker",
-      "Gewicht: 14 kg",
-      "Garantie: 2 jaar"
+      "Frame: Fully suspended",
+      "Color: Gold and Black",
+      "Brand: Mondraker",
+      "Weight: 14 kg",
+      "Warranty: 2 years"
     ],
     "reviews": [
       {
         "username": "CyclistMike",
         "rating": 5,
-        "comment": "Fantastische fiets! Het is zeer efficiënt en de rit is soepel. Elke cent waard."
+        "comment": "Fantastic bike! It's very efficient, and the ride is smooth. Worth every penny."
       },
       {
         "username": "MTBQueen",
         "rating": 4,
-        "comment": "Ik vind deze fiets leuk. Het is goed voor mountainbiken. Het kleurenschema is opvallend."
+        "comment": "I like this bike. It's good for mountain biking. The color scheme is striking."
       },
       {
         "username": "TrailBlazer",
         "rating": 4,
-        "comment": "De fiets is goed. Het doet zijn werk, maar ik heb comfortabelere gehad."
+        "comment": "The bike is good. It does its job, but I've had more comfortable ones."
       },
       {
         "username": "BikeLover",
         "rating": 5,
-        "comment": "Uitstekende kwaliteit en prijs. Het is duurzaam en presteert goed."
+        "comment": "Excellent quality and price. It's durable and performs well."
       },
       {
         "username": "RiderJane",
         "rating": 4,
-        "comment": "Goede fiets voor mountainbiken. Het is wel een beetje zwaar."
+        "comment": "Good bike for mountain biking. It's a bit heavy though."
       }
     ]
   },
