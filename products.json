@@ -1121,7 +1121,7 @@
   },
   {
     "index": 21,
-    "articleName": "Fiets Repair Kit",
+    "articleName": "bike Repair Kit",
     "price": 25.99,
     "lastSold": "26/02/'24",
     "imageSrc": "https://github.com/EldrupJarne/JSON-Host/raw/b8f59f47dbb766c90c395d9395dde0e02872b9c5/images/ai_rapair-1.webp",
@@ -1149,7 +1149,7 @@
     ],
     "reviews": [
       {
-        "username": "FietsFan123",
+        "username": "bikeFan123",
         "rating": 4,
         "comment": "Handy set, has everything you need for basic repairs."
       },
@@ -1205,7 +1205,7 @@
     ],
     "reviews": [
       {
-        "username": "FietsFan123",
+        "username": "bikeFan123",
         "rating": 5,
         "comment": "Fantastic kit, made my bike look like new again."
       },
@@ -1261,7 +1261,7 @@
     ],
     "reviews": [
       {
-        "username": "FietsFan123",
+        "username": "bikeFan123",
         "rating": 5,
         "comment": "Very handy pump, easy to take on bike rides."
       },
@@ -1317,7 +1317,7 @@
     ],
     "reviews": [
       {
-        "username": "FietsFan123",
+        "username": "bikeFan123",
         "rating": 5,
         "comment": "Excellent spray, kept my frame looking like new."
       },
